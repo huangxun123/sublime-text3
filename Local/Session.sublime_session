@@ -1,20 +1,25 @@
 {
 	"folder_history":
 	[
+		"/home/hx/hundred-c",
 		"/home/hx/c-test"
 	],
 	"last_version": 3126,
-	"last_window_id": 4,
+	"last_window_id": 6,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 0.0,
+		"new_window_height": 505.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"inc",
+						"include"
+					]
 				]
 			},
 			"build_system_choices":
@@ -39,17 +44,17 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 350.0,
-				"last_filter": "Package Control:I ",
+				"height": 392.0,
+				"last_filter": "Package Control: ",
 				"selected_items":
 				[
 					[
-						"Package Control:I ",
+						"Package Control: ",
 						"Package Control: Install Package"
 					],
 					[
-						"Package Control: ",
-						"Package Control: Remove Package"
+						"Package Control:I ",
+						"Package Control: Install Package"
 					],
 					[
 						"Package Control: re",
@@ -89,13 +94,17 @@
 			},
 			"file_history":
 			[
+				"/home/hx/c-test/xuanzepaixu.c",
+				"/home/hx/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/hx/.config/sublime-text-3/Packages/AutoFileName/autofilename.sublime-settings",
+				"/home/hx/c-test/1.c",
+				"/home/hx/c-test/2.c",
 				"/home/hx/.config/sublime-text-3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
-				"/home/hx/.config/sublime-text-3/Packages/User/AdvancedNewFile.sublime-settings",
-				"/home/hx/c-test/1.c"
+				"/home/hx/.config/sublime-text-3/Packages/User/AdvancedNewFile.sublime-settings"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 25.0
 			},
 			"find_in_files":
 			{
@@ -109,6 +118,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"print"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -125,13 +135,17 @@
 			},
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 23.0
 			},
 			"input":
 			{
 				"height": 31.0
 			},
 			"menu_visible": true,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
 			"output.exec":
 			{
 				"height": 100.0
@@ -143,7 +157,7 @@
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 46.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -152,6 +166,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"~/c-test/2.c"
+					]
 				],
 				"width": 0.0
 			},
@@ -183,7 +201,7 @@
 			{
 			}
 		},
-		"new_window_width": 0.0
+		"new_window_width": 640.0
 	},
 	"windows":
 	[
@@ -192,12 +210,16 @@
 			{
 				"selected_items":
 				[
+					[
+						"inc",
+						"include"
+					]
 				]
 			},
 			"buffers":
 			[
 			],
-			"build_system": "Packages/C++/C++ Single File.sublime-build",
+			"build_system": "",
 			"build_system_choices":
 			[
 				[
@@ -220,17 +242,17 @@
 			"build_varint": "",
 			"command_palette":
 			{
-				"height": 350.0,
-				"last_filter": "Package Control:I ",
+				"height": 392.0,
+				"last_filter": "Package Control: ",
 				"selected_items":
 				[
 					[
-						"Package Control:I ",
+						"Package Control: ",
 						"Package Control: Install Package"
 					],
 					[
-						"Package Control: ",
-						"Package Control: Remove Package"
+						"Package Control:I ",
+						"Package Control: Install Package"
 					],
 					[
 						"Package Control: re",
@@ -268,18 +290,26 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
+			"expanded_folders":
+			[
+				"/home/hx/c-test"
+			],
 			"file_history":
 			[
+				"/home/hx/c-test/1.c",
+				"/home/hx/c-test/echo_eof.c",
+				"/home/hx/c-test/hundred-c/1.c",
+				"/home/hx/c-test/4.c",
+				"/home/hx/c-test/xuanzepaixu.c",
 				"/home/hx/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
 				"/home/hx/.config/sublime-text-3/Packages/AutoFileName/autofilename.sublime-settings",
-				"/home/hx/c-test/1.c",
 				"/home/hx/c-test/2.c",
 				"/home/hx/.config/sublime-text-3/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
 				"/home/hx/.config/sublime-text-3/Packages/User/AdvancedNewFile.sublime-settings"
 			],
 			"find":
 			{
-				"height": 0.0
+				"height": 25.0
 			},
 			"find_in_files":
 			{
@@ -293,6 +323,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"print"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -307,6 +338,12 @@
 				"whole_word": false,
 				"wrap": true
 			},
+			"folders":
+			[
+				{
+					"path": "/home/hx/c-test"
+				}
+			],
 			"groups":
 			[
 				{
@@ -317,7 +354,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 0.0
+				"height": 23.0
 			},
 			"input":
 			{
@@ -346,6 +383,10 @@
 				]
 			},
 			"menu_visible": true,
+			"output.astyle_error_message":
+			{
+				"height": 0.0
+			},
 			"output.exec":
 			{
 				"height": 100.0
@@ -355,11 +396,11 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,0,0,0,0,4310,1080",
+			"position": "0,1,0,0,0,1996,244,2636,749,4310,1080",
 			"project": "",
 			"replace":
 			{
-				"height": 0.0
+				"height": 46.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -368,6 +409,10 @@
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"~/c-test/2.c"
+					]
 				],
 				"width": 0.0
 			},
@@ -402,7 +447,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 1,
+			"window_id": 5,
 			"workspace_name": ""
 		}
 	],
